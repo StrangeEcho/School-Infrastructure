@@ -1,0 +1,1 @@
+// This is the JavaScript file for front end logic such.
