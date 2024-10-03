@@ -4,7 +4,7 @@ This project will entail a school infrastructure project that will be most simil
 This project is meant to be for demonstration purposes <b>only</b> and not mean to be of actual use. 
 
 <h2>Features</h2>
-- Grading System<br>
+- Grading System (Non-Important)<br>
 - Student & Faculty management system<br>
 - Front end UI for Students, Faculty, and Adminstrators
 
